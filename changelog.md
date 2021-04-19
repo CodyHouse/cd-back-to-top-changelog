@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.3] - 2021-04-19
+- New data-target-in/data-target-out attributes
+
 ## [1.0.2] - 2019-12-11
 - Minor bug fixes
 
